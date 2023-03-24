@@ -12,20 +12,19 @@ switch (action) {
     alert(numberA + numberB);
     console.log(add);
     break;
-}
-switch (action) {
+
+
   case "sub":
     alert(numberA - numberB);
     console.log(sub);
     break;
-}
-switch (action) {
+
+
   case "mult":
     alert(numberA * numberB);
     console.log(mult);
     break;
-}
-switch (action) {
+
   case "div":
     alert(numberA / numberB);
     console.log("div");
